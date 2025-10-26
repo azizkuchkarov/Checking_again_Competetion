@@ -3,7 +3,7 @@ import { Menu } from "@/types/menu";
 const menuData: Menu[] = [
   {
     id: 1,
-    title: "Blog",
+    title: "Макеты в разрезе для стенда в БОУМГ / Cross-section models for the BMGMC stand",
     path: "/blog",
     newTab: false,
   },

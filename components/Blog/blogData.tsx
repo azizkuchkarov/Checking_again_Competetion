@@ -436,6 +436,433 @@ For the JMS 420 engine, which is one of the most advanced units in the Jenbacher
     tags: ["creative"],
     publishDate: "2025",
   },
+  {
+    id: 10,
+    title:
+      "ГБЦ ГПЭС JENBACHER GE 420 / Cylinder head block of JENBACHER GE 420 gas piston power station",
+    paragraph: `
+      Головка блока цилиндров (ГБЦ) газового двигателя Jenbacher GE 420 (JMS 420) — это сложный и критически важный компонент, оптимизированный для работы на газовом топливе. Её конструкция обеспечивает высокую эффективность сгорания, надёжность и долговечность. / The cylinder head (CH) of the Jenbacher GE 420 (JMS 420) gas engine is a complex and critical component optimized for gas fuel operation. Its design ensures high combustion efficiency, reliability, and durability.   
+    `,
+    details: `
+      Основные функции. Герметизация камеры сгорания: ГБЦ закрывает цилиндр сверху, образуя герметичную камеру, где происходит сжатие и воспламенение топливо-воздушной смеси.
+Газораспределение: Внутри ГБЦ расположены четыре клапана (два впускных и два выпускных) на каждый цилиндр. Эта конструкция обеспечивает оптимальный газообмен, улучшая наполнение цилиндров и очистку от выхлопных газов.
+Управление потоком: Оптимизированная геометрия каналов в ГБЦ обеспечивает высокую эффективность, что приводит к лучшему сгоранию топлива.
+Размещение компонентов: В ГБЦ устанавливаются свечи зажигания, а также клапаны и их приводы. Центральное расположение свечи обеспечивает оптимальные условия сгорания и охлаждения.
+Охлаждение: Внутри ГБЦ проложены каналы для циркуляции охлаждающей жидкости, которая отводит тепло от клапанов, свечей и камеры сгорания, предотвращая перегрев.
+Совместимость: Двигатель Jenbacher J420, созданный на основе проверенных технологий Type 3 и Type 6, имеет усовершенствованную конструкцию ГБЦ, которая является результатом многолетних разработок. 
+Принцип работы. Впуск: Впускные клапаны открываются, и в цилиндр поступает гомогенная топливо-воздушная смесь.
+Сжатие: Клапаны закрываются, и поршень сжимает смесь.
+Сгорание: Система зажигания активируется, и свеча зажигания в центре камеры сгорания воспламеняет смесь. Оптимизированная геометрия ГБЦ способствует быстрому и эффективному сгоранию.
+Выпуск: Выпускные клапаны открываются, и поршень выталкивает отработанные газы в выхлопной коллектор.
+Тепловая нагрузка: ГБЦ специально разработана для минимизации тепловой нагрузки и повышения надёжности и долговечности компонентов. 
+Схема. Точная схема ГБЦ, как и любого компонента двигателя, конфиденциальна и доступна только у производителя. Однако она включает:
+Два впускных и два выпускных клапана на каждый цилиндр.
+Центрально расположенную свечу зажигания.
+Каналы для циркуляции охлаждающей жидкости.
+Масляные каналы для смазки клапанного механизма. / 
+Main functions. Sealing of the combustion chamber: The cylinder head closes the cylinder from above, forming a sealed chamber where the air-fuel mixture is compressed and ignited.
+Gas distribution: Inside the cylinder head there are four valves (two intake and two exhaust) per cylinder. This design ensures optimal gas exchange, improving cylinder filling and exhaust gas scavenging.
+Flow control: The optimized port geometry of the cylinder head provides high efficiency, resulting in better fuel combustion.
+Component placement: The cylinder head accommodates spark plugs as well as the valves and their actuating mechanisms. The central position of the spark plug ensures optimal combustion and cooling conditions.
+Cooling: Inside the cylinder head are channels for coolant circulation, which remove heat from the valves, spark plugs, and combustion chamber, preventing overheating.
+Compatibility: The Jenbacher J420 engine, developed on the basis of proven Type 3 and Type 6 technologies, features an improved cylinder head design that is the result of many years of development.
+Operating principle. Intake: The intake valves open, allowing a homogeneous air-fuel mixture to enter the cylinder.
+Compression: The valves close, and the piston compresses the mixture.
+Combustion: The ignition system activates, and the centrally located spark plug ignites the mixture in the combustion chamber. The optimized geometry of the cylinder head promotes fast and efficient combustion.
+Exhaust: The exhaust valves open, and the piston pushes the exhaust gases into the exhaust manifold.
+Thermal load: The cylinder head is specifically designed to minimize thermal stress and improve the reliability and durability of the components.
+Diagram. The exact cylinder head diagram, like any other engine component, is confidential and available only from the manufacturer. However, it includes:
+Two intake and two exhaust valves per cylinder.
+A centrally located spark plug.
+Coolant channels for circulation.
+Oil channels for valve mechanism lubrication.
+
+
+
+    `,
+    // 🟢 asosiy rasm
+    image: "/images/blog/test10.jpg",
+    // 🆕 qo‘shimcha rasmlar
+    images: [
+      "/images/blog/test10.jpg",
+      "/images/blog/test10.1.jpg",
+      "/images/blog/test10.2.jpg",
+    ],
+    author: {
+      name: "Samuyl Joshi",
+      image: "/images/blog/author-01.png",
+      designation: "Graphic Designer",
+    },
+    tags: ["creative"],
+    publishDate: "2025",
+  },
+  {
+    id: 11,
+    title:
+      "Турбонагнетатель ГПЭС JENBACHER GE 420  /  Turbocharger of JENBACHER GE 420  gas piston power station",
+    paragraph: `
+      Газовые двигатели Jenbacher, выпускаемые компанией INNIO, используют турбокомпрессоры (иногда называемые нагнетателями) для повышения мощности и эффективности. / Jenbacher gas engines manufactured by INNIO use turbochargers (sometimes called superchargers) to increase power and efficiency.   
+    `,
+    details: `
+      Основные функции. Сжатие воздуха: Главная задача турбокомпрессора — сжать воздух, поступающий в цилиндры двигателя. Подача большего количества сжатого воздуха позволяет сжигать больше топлива и значительно повышает мощность двигателя.
+Повышение эффективности: Сжатие воздуха и последующее его охлаждение (с помощью интеркулера) приводят к увеличению плотности воздуха. Это позволяет сжечь топливо более эффективно, что снижает удельный расход топлива.
+Снижение выбросов: Современные двигатели Jenbacher работают на обеднённой топливовоздушной смеси (lean-burn). Это позволяет снизить температуру сгорания, что в свою очередь уменьшает образование вредных оксидов азота.
+Компенсация условий эксплуатации: Турбокомпрессор помогает поддерживать производительность двигателя на высоте или в жарких условиях, где плотность воздуха ниже, компенсируя неблагоприятные атмосферные условия. 
+Принцип работы. Принцип работы нагнетателя Jenbacher основан на использовании энергии выхлопных газов двигателя. 
+Турбина: Выхлопные газы из двигателя поступают в корпус турбины и вращают турбинное колесо, преобразуя кинетическую энергию газов в механическую.
+Компрессор: Турбинное колесо и колесо компрессора находятся на одном валу, поэтому вращение турбины приводит в движение компрессор.
+Всасывание и сжатие воздуха: Компрессор всасывает воздух из атмосферы, который затем сжимается и нагнетается в цилиндры двигателя.
+Охлаждение: В двигателях Jenbacher с интеркулером (охладителем наддувочного воздуха) воздух после сжатия проходит через систему охлаждения перед подачей в цилиндры. Охлаждение повышает плотность воздуха и увеличивает эффективность сгорания.
+Электронное управление: Электронная система управления двигателем регулирует давление наддува в зависимости от нагрузки. Например, в двигателе J416 есть электронно-управляемый клапан, который регулирует мощность с помощью дроссельной заслонки. /
+Main functions. Air compression: The main purpose of the turbocharger is to compress the air supplied to the engine cylinders. Delivering a greater amount of compressed air allows more fuel to be burned, significantly increasing engine power.
+Efficiency improvement: Air compression and its subsequent cooling (using an intercooler) increase the air density. This allows for more efficient fuel combustion, reducing the specific fuel consumption.
+Emission reduction: Modern Jenbacher engines operate on a lean-burn air-fuel mixture. This helps lower the combustion temperature, which in turn reduces the formation of harmful nitrogen oxides.
+Compensation for operating conditions: The turbocharger helps maintain engine performance at high altitudes or in hot environments where air density is lower, compensating for unfavorable atmospheric conditions.
+Operating principle. The operating principle of the Jenbacher turbocharger is based on utilizing the energy of the engine exhaust gases.
+Turbine: Exhaust gases from the engine enter the turbine housing and rotate the turbine wheel, converting the kinetic energy of the gases into mechanical energy.
+Compressor: The turbine wheel and the compressor wheel are mounted on a common shaft, so the rotation of the turbine drives the compressor.
+Air intake and compression: The compressor draws in air from the atmosphere, which is then compressed and delivered to the engine cylinders.
+Cooling: In Jenbacher engines equipped with an intercooler (charge air cooler), the compressed air passes through the cooling system before entering the cylinders. Cooling increases air density and improves combustion efficiency.
+Electronic control: The electronic engine management system regulates the boost pressure depending on the load. For example, in the J416 engine, there is an electronically controlled valve that adjusts power through a throttle mechanism.
+
+
+
+    `,
+    // 🟢 asosiy rasm
+    image: "/images/blog/test11.jpg",
+    // 🆕 qo‘shimcha rasmlar
+    images: [
+      "/images/blog/test11.jpg",
+      "/images/blog/test11.1.jpg",
+      "/images/blog/test11.2.jpg",
+      "/images/blog/test11.3.jpg",
+      "/images/blog/test11.4.jpg",
+    ],
+    author: {
+      name: "Samuyl Joshi",
+      image: "/images/blog/author-01.png",
+      designation: "Graphic Designer",
+    },
+    tags: ["creative"],
+    publishDate: "2025",
+  },
+  {
+    id: 12,
+    title:
+      "Запорная арматура ЗКЛ Ø100 / Shut-off valve ZKL Ø100",
+    paragraph: `
+      Задвижка клиновая литая (ЗКЛ) Ø100 — это тип запорной арматуры, которая используется для полного перекрытия потока рабочей среды в трубопроводах с условным проходом 100 мм. ЗКЛ наиболее широко применяется в промышленности и составляет значительную часть всей используемой арматуры.  / A cast wedge gate valve (ZK) Ø100 is a type of shut-off valve used to completely shut off the flow of working medium in pipelines with a nominal diameter of 100 mm. ZK valves are most widely used in industry and account for a significant proportion of all valves in use.    
+    `,
+    details: `
+      Основные функции. Полное перекрытие потока: Главная и единственная функция запорной арматуры — обеспечивать герметичное перекрытие потока рабочей среды. Задвижка не предназначена для регулирования потока, так как длительная работа в промежуточных положениях может привести к быстрому износу и повреждению.
+Изоляция участка трубопровода: ЗКЛ позволяет полностью изолировать часть трубопровода для проведения ремонтных работ, обслуживания или замены оборудования, не затрагивая остальную часть системы.
+Управление потоками: Задвижка применяется в трубопроводах, где необходимо управлять направлением потока, например, при переключении между технологическими линиями.
+Работа с различными средами: В зависимости от материала корпуса и уплотнений, ЗКЛ может работать с широким спектром рабочих сред, включая нефтегазовые смеси, воду, пар и агрессивные среды. 
+Принцип работы. Конструкция: Задвижка состоит из корпуса, в котором размещен клиновидный затвор. Затвор перемещается перпендикулярно направлению потока.
+Открытие: При вращении маховика или использовании привода шток поднимает клиновидный затвор, полностью открывая проход для рабочей среды.
+Закрытие: При обратном вращении шток опускает затвор, который клином входит в седла корпуса и герметично перекрывает поток.
+Герметизация: Клиновидная форма затвора обеспечивает надежное уплотнение, предотвращая утечку рабочей среды.
+Типы привода: Ручной: Задвижка может управляться вручную с помощью маховика.
+Электрический: Для удаленного управления и автоматизации процессов могут использоваться электрические приводы.
+Другие: В зависимости от требований, могут применяться и другие типы приводов, например, пневматические. / 
+Main functions. Complete shutoff of flow: The main and only function of shut-off valves is to ensure a tight shutoff of the working medium flow. A gate valve is not designed for flow regulation, as prolonged operation in intermediate positions may lead to rapid wear and damage.
+Pipeline section isolation: The gate valve (ZKL) allows complete isolation of a section of the pipeline for repair, maintenance, or equipment replacement without affecting the rest of the system.
+Flow control: A gate valve is used in pipelines where it is necessary to control the direction of flow, for example, when switching between process lines.
+Operation with various media: Depending on the body and sealing materials, the gate valve (ZKL) can operate with a wide range of media, including oil and gas mixtures, water, steam, and aggressive environments.
+Operating principle. Construction: The gate valve consists of a body containing a wedge-shaped gate that moves perpendicular to the flow direction.
+Opening: When the handwheel is turned or an actuator is used, the stem lifts the wedge-shaped gate, fully opening the passage for the working medium.
+Closing: When the handwheel is turned in the opposite direction, the stem lowers the gate, which wedges into the body seats, tightly shutting off the flow.
+Sealing: The wedge-shaped design of the gate ensures reliable sealing, preventing any leakage of the working medium.
+Types of actuators: Manual: The gate valve can be operated manually using a handwheel.
+Electric: Electric actuators can be used for remote control and process automation.
+Others: Depending on system requirements, other types of actuators such as pneumatic may also be applied.
+
+
+
+    `,
+    // 🟢 asosiy rasm
+    image: "/images/blog/test12.jpg",
+    // 🆕 qo‘shimcha rasmlar
+    images: [
+      "/images/blog/test12.jpg",
+      "/images/blog/test12.1.jpg",
+      "/images/blog/test12.2.jpg",
+      "/images/blog/test12.3.jpg",
+    ],
+    author: {
+      name: "Samuyl Joshi",
+      image: "/images/blog/author-01.png",
+      designation: "Graphic Designer",
+    },
+    tags: ["creative"],
+    publishDate: "2025",
+  },
+  {
+    id: 13,
+    title:
+      "Запорная арматура Запорный вентиль  Ø100 / Shut-off valve Shut-off valve  Ø100",
+    paragraph: `
+      Основные функции и принцип работы запорного вентиля диаметром 100 мм (ДУ100) схожи с другими типоразмерами вентилей и относятся к классу запорной арматуры. Главная задача такой арматуры — обеспечивать полное перекрытие потока рабочей среды в трубопроводе. / The main functions and operating principle of a 100 mm diameter shut-off valve (D100) are similar to other valve sizes and belong to the class of shut-off valves. The main task of such valves is to ensure complete shut-off of the working medium flow in the pipeline.    
+    `,
+    details: `
+      Основные функции. Полное перекрытие потока: Главная функция вентиля — обеспечение герметичного перекрытия потока жидкости, газа, пара или другой среды. Это необходимо для проведения ремонтных работ, обслуживания или изоляции определённых участков трубопровода.
+Герметичность затвора: Вентиль, в отличие от некоторых других видов арматуры, обеспечивает высокую герметичность в закрытом состоянии. Это достигается плотным прилеганием уплотнительной поверхности затвора (золотника) к седлу корпуса.
+Изоляция участков системы: Вентили позволяют изолировать отдельные участки трубопроводной системы для технического обслуживания, ремонта или при возникновении аварийных ситуаций, предотвращая утечку рабочей среды. 
+Принцип работы. Принцип работы запорного вентиля основан на возвратно-поступательном перемещении запирающего элемента — золотника (или клапана) — вдоль оси потока рабочей среды. 
+Конструкция: Основные компоненты вентиля включают:
+Корпус: Часть, которая монтируется в трубопровод.
+Золотник (тарелка): Запирающий элемент, который перемещается внутри корпуса.
+Шток (шпиндель): Передаёт усилие от привода (штурвала) к золотнику.
+Седло: Уплотнительная поверхность на корпусе, куда прижимается золотник.
+Маховик (штурвал): Используется для ручного управления вентилем.
+Процесс открытия/закрытия: Закрытие: При вращении маховика по часовой стрелке, шток начинает поступательное движение вниз. Золотник, соединённый со штоком, опускается и плотно прижимается к седлу, полностью перекрывая проходное отверстие для рабочей среды.
+Открытие: При вращении маховика против часовой стрелки, шток поднимает золотник, освобождая проход. Это позволяет рабочей среде беспрепятственно двигаться по трубопроводу.
+Особенности движения: В отличие от задвижек, где запирающий элемент перемещается перпендикулярно потоку, в вентилях он движется параллельно ему.
+При этом поток рабочей среды в корпусе вентиля дважды меняет своё направление (из-за чего гидравлическое сопротивление у вентилей выше, чем у задвижек), что, однако, обеспечивает более высокую герметичность и надёжность при работе с высоким давлением. 
+Особенности запорного вентиля ДУ100. Тип соединения: Вентили с большим диаметром, как ДУ100, чаще всего имеют фланцевое соединение для обеспечения надёжного и герметичного монтажа в трубопроводе.
+Область применения: Используются в промышленных трубопроводах, системах ЖКХ, на объектах тепло- и водоснабжения, где требуется надёжное и герметичное перекрытие потока на трубах диаметром 100 мм.
+Материалы: В зависимости от рабочей среды и давления, корпус и внутренние части могут быть изготовлены из чугуна, стали, нержавеющей стали, бронзы и других материалов. / 
+Main functions. Complete shutoff of flow: The main function of a valve is to provide a tight shutoff of liquid, gas, steam, or other medium flow. This is necessary for performing maintenance, repair, or isolating specific sections of the pipeline.
+Tight sealing: Unlike some other types of fittings, the valve provides high tightness in the closed position. This is achieved by the tight contact of the sealing surface of the disk (plug) with the seat of the body.
+System section isolation: Valves allow the isolation of individual sections of the pipeline system for maintenance, repair, or in case of emergency situations, preventing leakage of the working medium.
+Operating principle. The operating principle of a shut-off valve is based on the reciprocating movement of the closing element — the disk (or plug) — along the axis of the working medium flow.
+Construction: The main components of the valve include:
+Body: The part that is mounted into the pipeline.
+Disk (plug): The closing element that moves inside the body.
+Stem (spindle): Transmits force from the actuator (handwheel) to the disk.
+Seat: The sealing surface on the body against which the disk is pressed.
+Handwheel: Used for manual operation of the valve.
+Opening/closing process: Closing: When the handwheel is turned clockwise, the stem moves downward. The disk connected to the stem lowers and presses tightly against the seat, completely blocking the passage of the working medium.
+Opening: When the handwheel is turned counterclockwise, the stem lifts the disk, opening the passage and allowing the working medium to flow freely through the pipeline.
+Movement characteristics: Unlike gate valves, where the closing element moves perpendicular to the flow, in valves it moves parallel to it.
+As a result, the working medium flow inside the valve body changes direction twice (which causes higher hydraulic resistance compared to gate valves), but this provides greater tightness and reliability when operating under high pressure.
+Features of the shut-off valve DN100. Connection type: Large-diameter valves such as DN100 most often have a flanged connection to ensure reliable and tight installation in the pipeline.
+Application area: Used in industrial pipelines, public utility systems, and heat and water supply facilities, where reliable and tight shutoff of flow in 100 mm diameter pipes is required.
+Materials: Depending on the working medium and pressure, the body and internal parts may be made of cast iron, steel, stainless steel, bronze, and other materials.
+    `,
+    // 🟢 asosiy rasm
+    image: "/images/blog/test13.jpg",
+    // 🆕 qo‘shimcha rasmlar
+    images: [
+      "/images/blog/test13.jpg",
+      "/images/blog/test13.1.jpg",
+    ],
+    author: {
+      name: "Samuyl Joshi",
+      image: "/images/blog/author-01.png",
+      designation: "Graphic Designer",
+    },
+    tags: ["creative"],
+    publishDate: "2025",
+  },
+  {
+    id: 14,
+    title:
+      "Запорная арматура Шаровая задвижка Ø50 / Shut-off valves  Ball valve Ø50",
+    paragraph: `
+      Шаровой кран DN50 (Ø50) является одним из самых распространённых типов запорной арматуры, предназначенной для полного перекрытия потока рабочей среды в трубопроводах с условным проходом 50 мм. / The DN50 (Ø50) ball valve is one of the most common types of shut-off valves designed to completely shut off the flow of working media in pipelines with a nominal diameter of 50 mm.    
+    `,
+    details: `
+      Основные функции. Полное перекрытие потока: Главная задача шарового крана — герметично перекрывать поток жидкости или газа. Кран не предназначен для регулирования потока, так как длительная работа в промежуточных положениях может привести к быстрому износу уплотнений и шара.
+Быстрое срабатывание: Для управления шаровым краном достаточно повернуть рукоятку на 90 градусов. Это обеспечивает быстрое открытие или закрытие, что особенно важно в аварийных ситуациях.
+Изоляция участка трубопровода: Как и любая запорная арматура, шаровой кран позволяет изолировать часть трубопровода для проведения ремонтных работ, обслуживания или замены оборудования.
+Универсальность: Шаровые краны могут работать с широким спектром рабочих сред, включая воду, пар, нефтепродукты, газ и агрессивные среды, в зависимости от материала корпуса и уплотнений.
+Долговечность и надёжность: Благодаря простой конструкции и высококачественным материалам, шаровые краны обладают высокой надёжностью и долгим сроком службы. 
+Принцип работы. Принцип работы шарового крана основан на повороте сферического затвора (шара), расположенного внутри корпуса.
+Конструкция: Внутри корпуса крана находится шар с отверстием. Этот шар крепится на штоке, соединённом с рукояткой или приводом.
+Открытие: В открытом положении отверстие в шаре совмещается с осью трубопровода, позволяя рабочей среде свободно проходить.
+Закрытие: При повороте рукоятки на 90 градусов шар поворачивается, и его глухая часть перекрывает проход, полностью останавливая поток среды.
+Уплотнение: Герметичность обеспечивается уплотнительными кольцами (сёдлами), расположенными между шаром и корпусом, которые плотно прижимаются к шару. 
+Типы приводов. Ручной: Управление осуществляется с помощью рукоятки.
+Электрический: Используется для удалённого управления и автоматизации процессов.
+Пневматический/гидравлический: Применяется в системах, где требуется быстрое и мощное управление. / 
+Main functions. Complete shutoff of flow: The main purpose of a ball valve is to provide a tight shutoff of liquid or gas flow. The valve is not designed for flow regulation, as prolonged operation in intermediate positions may lead to rapid wear of the seals and the ball.
+Quick operation: To operate a ball valve, it is sufficient to turn the handle by 90 degrees. This ensures rapid opening or closing, which is especially important in emergency situations.
+Pipeline section isolation: Like any shut-off valve, a ball valve allows isolation of a section of the pipeline for maintenance, servicing, or equipment replacement.
+Versatility: Ball valves can operate with a wide range of working media, including water, steam, petroleum products, gas, and aggressive substances, depending on the body and seal materials.
+Durability and reliability: Due to their simple design and high-quality materials, ball valves offer high reliability and a long service life.
+Operating principle. The operating principle of a ball valve is based on the rotation of a spherical closure element (the ball) located inside the body.
+Construction: Inside the valve body, there is a ball with a through hole. This ball is mounted on a stem connected to a handle or actuator.
+Opening: In the open position, the hole in the ball aligns with the pipeline axis, allowing the working medium to flow freely.
+Closing: When the handle is turned 90 degrees, the ball rotates, and its solid part blocks the passage, completely stopping the flow of the medium.
+Sealing: Tightness is ensured by sealing rings (seats) located between the ball and the body, which are pressed tightly against the ball.
+Types of actuators. Manual: Operated using a handle.
+Electric: Used for remote control and process automation.
+Pneumatic/hydraulic: Applied in systems where fast and powerful actuation is required.
+    `,
+    // 🟢 asosiy rasm
+    image: "/images/blog/test14.jpg",
+    // 🆕 qo‘shimcha rasmlar
+    images: [
+      "/images/blog/test14.jpg",
+      "/images/blog/test14.1.jpg",
+    ],
+    author: {
+      name: "Samuyl Joshi",
+      image: "/images/blog/author-01.png",
+      designation: "Graphic Designer",
+    },
+    tags: ["creative"],
+    publishDate: "2025",
+  },
+  {
+    id: 15,
+    title:
+      "Запорная арматура Шаровая задвижка Ø50 / Shut-off valves Ball valve Ø50",
+    paragraph: `
+      Шаровой кран DN50 (Ø50) является одним из самых распространённых типов запорной арматуры, предназначенной для полного перекрытия потока рабочей среды в трубопроводах с условным проходом 50 мм. / The DN50 (Ø50) ball valve is one of the most common types of shut-off valves designed to completely shut off the flow of working fluid in pipelines with a nominal diameter of 50 mm.     
+    `,
+    details: `
+      Основные функции. Полное перекрытие потока: Главная задача шарового крана — герметично перекрывать поток жидкости или газа. Кран не предназначен для регулирования потока, так как длительная работа в промежуточных положениях может привести к быстрому износу уплотнений и шара.
+Быстрое срабатывание: Для управления шаровым краном достаточно повернуть рукоятку на 90 градусов. Это обеспечивает быстрое открытие или закрытие, что особенно важно в аварийных ситуациях.
+Изоляция участка трубопровода: Как и любая запорная арматура, шаровой кран позволяет изолировать часть трубопровода для проведения ремонтных работ, обслуживания или замены оборудования.
+Универсальность: Шаровые краны могут работать с широким спектром рабочих сред, включая воду, пар, нефтепродукты, газ и агрессивные среды, в зависимости от материала корпуса и уплотнений.
+Долговечность и надёжность: Благодаря простой конструкции и высококачественным материалам, шаровые краны обладают высокой надёжностью и долгим сроком службы. 
+Принцип работы. Принцип работы шарового крана основан на повороте сферического затвора (шара), расположенного внутри корпуса.
+Конструкция: Внутри корпуса крана находится шар с отверстием. Этот шар крепится на штоке, соединённом с рукояткой или приводом.
+Открытие: В открытом положении отверстие в шаре совмещается с осью трубопровода, позволяя рабочей среде свободно проходить.
+Закрытие: При повороте рукоятки на 90 градусов шар поворачивается, и его глухая часть перекрывает проход, полностью останавливая поток среды.
+Уплотнение: Герметичность обеспечивается уплотнительными кольцами (сёдлами), расположенными между шаром и корпусом, которые плотно прижимаются к шару. 
+Типы приводов. Ручной: Управление осуществляется с помощью рукоятки.
+Электрический: Используется для удалённого управления и автоматизации процессов.
+Пневматический/гидравлический: Применяется в системах, где требуется быстрое и мощное управление. / 
+Main functions. Complete shutoff of flow: The main purpose of a ball valve is to provide a tight shutoff of liquid or gas flow. The valve is not designed for flow regulation, as prolonged operation in intermediate positions may lead to rapid wear of the seals and the ball.
+Quick operation: To operate a ball valve, it is sufficient to turn the handle by 90 degrees. This ensures rapid opening or closing, which is especially important in emergency situations.
+Pipeline section isolation: Like any shut-off valve, a ball valve allows isolation of a section of the pipeline for maintenance, repair, or equipment replacement.
+Versatility: Ball valves can handle a wide range of working media, including water, steam, petroleum products, gas, and aggressive substances, depending on the body and seal materials.
+Durability and reliability: Due to their simple design and high-quality materials, ball valves are highly reliable and have a long service life.
+Operating principle. The operating principle of a ball valve is based on the rotation of a spherical closure element (the ball) located inside the body.
+Construction: Inside the valve body, there is a ball with a through hole. This ball is mounted on a stem connected to a handle or actuator.
+Opening: In the open position, the hole in the ball aligns with the pipeline axis, allowing the medium to flow freely.
+Closing: When the handle is turned 90 degrees, the ball rotates, and its solid part blocks the passage, completely stopping the flow of the medium.
+Sealing: Tightness is ensured by sealing rings (seats) located between the ball and the body, which are pressed tightly against the ball.
+Types of actuators. Manual: Operated by a handle.
+Electric: Used for remote control and process automation.
+Pneumatic/hydraulic: Applied in systems requiring fast and powerful actuation.
+    `,
+    // 🟢 asosiy rasm
+    image: "/images/blog/test15.jpg",
+    // 🆕 qo‘shimcha rasmlar
+    images: [
+      "/images/blog/test15.jpg",
+      "/images/blog/test15.1.jpg",
+    ],
+    author: {
+      name: "Samuyl Joshi",
+      image: "/images/blog/author-01.png",
+      designation: "Graphic Designer",
+    },
+    tags: ["creative"],
+    publishDate: "2025",
+  },
+  {
+    id: 16,
+    title:
+      "Обгонная муфта гидростартера ГПА GE LM2500+ / GE  LM2500+ GCU hydro-starter overrunning clutch",
+    paragraph: `
+      Обгонная муфта гидростартера GE — это ключевой механический компонент в системе запуска газотурбинных установок GE, который обеспечивает передачу крутящего момента от гидростартера к ротору турбины во время запуска, а затем автоматически расцепляется. / The GE hydrostarter overrunning clutch is a key mechanical component in GE gas turbine start-up systems, transferring torque from the hydrostarter to the turbine rotor during start-up and then automatically disengaging.     
+    `,
+    details: `
+      Основные функции. Передача крутящего момента: Во время запуска гидростартер через обгонную муфту передает вращение ротору турбины. Это необходимо для того, чтобы раскрутить ротор до скорости самоподдержания, при которой турбина может работать самостоятельно.
+Автоматическое расцепление: Как только турбина достигает скорости самоподдержания, скорость ротора превышает скорость гидростартера. В этот момент обгонная муфта автоматически расцепляется, чтобы избежать повреждения пускового устройства.
+Защита гидростартера: Муфта предотвращает передачу избыточного крутящего момента и высокой скорости вращения от турбины обратно на гидростартер. Это защищает дорогостоящее пусковое оборудование от повреждений.
+Безопасный переход к рабочему режиму: Расцепление муфты обеспечивает плавный и безопасный переход от пускового режима к рабочему, исключая потери мощности. 
+Принцип работы. Гидростартеры на турбинах GE часто используют обгонные муфты с центробежным приводом или аналогичные им механизмы, например, с обгонными роликами.
+Зацепление при запуске: Когда оператор инициирует запуск, система управления подает гидравлическое масло под давлением к гидромотору.
+Гидромотор начинает вращаться и передает крутящий момент на вал обгонной муфты.
+Внутри муфты специальные элементы (ролики или сухари) заклиниваются между внутренним и внешним кольцами, жестко сцепляя вал гидростартера с валом турбины.
+Расцепление при наборе скорости: Как только турбина достигает скорости самоподдержания и начинает работать на собственном топливе, её ротор начинает вращаться быстрее, чем гидростартер.
+Центробежная сила, возникающая при высокой скорости вращения, отбрасывает ролики или сухари, освобождая их от зацепления.
+Муфта расцепляется, позволяя валу турбины свободно вращаться, в то время как вал гидростартера остается неподвижным.
+Защита от повреждений: В расцепленном состоянии муфта вращается свободно в одном направлении (в сторону вала турбины), не передавая крутящий момент обратно на гидростартер.
+Это предотвращает перегрузку гидромотора и других компонентов пусковой системы. 
+Примечание: Для конкретных моделей турбин GE могут использоваться различные типы обгонных муфт, в том числе синхронные (SSS), которые автоматически входят в зацепление и расцепляются без внешнего управления. / 
+Main functions. Transmission of torque: During startup, the hydrostarter transmits rotation to the turbine rotor through an overrunning clutch. This is necessary to accelerate the rotor to the self-sustaining speed at which the turbine can operate independently.
+Automatic disengagement: Once the turbine reaches self-sustaining speed, the rotor speed exceeds the hydrostarter speed. At this moment, the overrunning clutch automatically disengages to prevent damage to the starting device.
+Hydrostarter protection: The clutch prevents excessive torque and high rotational speed from being transmitted back from the turbine to the hydrostarter. This protects the expensive starting equipment from damage.
+Safe transition to operating mode: Disengagement of the clutch ensures a smooth and safe transition from the starting mode to the operating mode, eliminating power losses.
+Operating principle. Hydrostarter systems used in GE turbines often employ overrunning clutches with centrifugal drives or similar mechanisms, such as roller-type overrunning clutches.
+Engagement during startup: When the operator initiates startup, the control system supplies pressurized hydraulic oil to the hydraulic motor.
+The hydraulic motor begins to rotate and transmits torque to the shaft of the overrunning clutch.
+Inside the clutch, special elements (rollers or sprags) wedge between the inner and outer rings, rigidly coupling the hydrostarter shaft with the turbine shaft.
+Disengagement during acceleration: Once the turbine reaches the self-sustaining speed and begins operating on its own fuel, its rotor starts to rotate faster than the hydrostarter.
+The centrifugal force generated by the high rotational speed causes the rollers or sprags to move outward, releasing the engagement.
+The clutch disengages, allowing the turbine shaft to rotate freely while the hydrostarter shaft remains stationary.
+Protection against damage: In the disengaged state, the clutch rotates freely in one direction (toward the turbine shaft) without transmitting torque back to the hydrostarter.
+This prevents overloading of the hydraulic motor and other components of the starting system.
+Note: For specific GE turbine models, different types of overrunning clutches may be used, including synchronous (SSS) types, which automatically engage and disengage without external control.
+    `,
+    // 🟢 asosiy rasm
+    image: "/images/blog/test16.jpg",
+    // 🆕 qo‘shimcha rasmlar
+    images: [
+      "/images/blog/test16.jpg",
+      "/images/blog/test16.1.jpg",
+    ],
+    author: {
+      name: "Samuyl Joshi",
+      image: "/images/blog/author-01.png",
+      designation: "Graphic Designer",
+    },
+    tags: ["creative"],
+    publishDate: "2025",
+  },
+  {
+    id: 17,
+    title:
+      "Винтовой компрессор Atlas Copco GA110 / Atlas Copco GA110 rotary screw compressor",
+    paragraph: `
+      Винтовой компрессор Atlas Copco GA110 — это мощный стационарный агрегат, предназначенный для производства больших объёмов сжатого воздуха для промышленных нужд. / The Atlas Copco GA110 screw compressor is a powerful stationary unit designed to produce large volumes of compressed air for industrial applications.     
+    `,
+    details: `
+      Основные функции: Сжатие воздуха: Главная задача — сжатие атмосферного воздуха до заданного давления с помощью вращающейся винтовой пары.
+Подача сжатого воздуха: Обеспечение бесперебойной и стабильной подачи сжатого воздуха для различных производственных процессов и пневматического оборудования.
+Энергоэффективность: В современных моделях (например, с частотно-регулируемым приводом VSD+) обеспечивается высокая энергоэффективность, что позволяет значительно снизить потребление электроэнергии.
+Длительная бесперебойная работа: Компрессоры серии GA рассчитаны на продолжительную работу в тяжелых условиях эксплуатации.
+Компактность: В компрессорах с вертикальным дизайном VSD+ используется компактная конструкция, что позволяет размещать их в ограниченном пространстве. 
+Принцип работы. Принцип работы винтового компрессора основан на вращении двух винтовых роторов, которые сжимают воздух.
+Всасывание: Атмосферный воздух поступает через впускной фильтр и всасывающий клапан в винтовой блок.
+Сжатие: Внутри винтового блока два винтовых ротора (ведущий и ведомый) вращаются в противоположных направлениях. Воздух, захваченный между роторами и стенками корпуса, движется от входа к выходу. По мере движения витки роторов уменьшают объём пространства, сжимая воздух.
+Смешивание с маслом: В процессе сжатия в винтовой блок впрыскивается масло. Оно выполняет несколько функций:
+Охлаждение: Охлаждает воздух, отводя тепло, выделяющееся при сжатии.
+Смазка: Смазывает движущиеся части, уменьшая трение и износ.
+Уплотнение: Заполняет зазоры между роторами, обеспечивая герметичность.
+Разделение масла: Смесь сжатого воздуха и масла поступает в маслоотделитель. Здесь масло отделяется от воздуха.
+Охлаждение сжатого воздуха: Сжатый воздух проходит через охладитель, где он охлаждается до необходимой температуры. В некоторых моделях может быть встроенный осушитель, который удаляет влагу.
+Подача потребителю: Очищенный и охлаждённый сжатый воздух подается в пневмосеть.
+Циркуляция масла: Отделенное в сепараторе масло проходит через охладитель и фильтр, после чего снова впрыскивается в винтовой блок. / 
+Main functions: Air compression: The main task is to compress atmospheric air to a specified pressure using a rotating screw pair.
+Compressed air supply: Ensuring uninterrupted and stable compressed air supply for various production processes and pneumatic equipment.
+Energy efficiency: Modern models (e.g., with VSD+ variable speed drive) offer high energy efficiency, which significantly reduces power consumption.
+Long-term uninterrupted operation: GA series compressors are designed for continuous operation in harsh conditions.
+Compactness: VSD+ vertical compressors feature a compact design that allows them to be installed in confined spaces. 
+Principle of operation. The principle of operation of a screw compressor is based on the rotation of two screw rotors that compress air.
+Intake: Atmospheric air enters the screw block through the intake filter and intake valve.
+Compression: Inside the screw block, two screw rotors (drive and driven) rotate in opposite directions. The air trapped between the rotors and the walls of the housing moves from the inlet to the outlet. As they move, the rotor threads reduce the volume of space, compressing the air.
+Mixing with oil: During the compression process, oil is injected into the screw block. It performs several functions:
+Cooling: Cools the air by removing the heat generated during compression.
+Lubrication: Lubricates moving parts, reducing friction and wear.
+Sealing: Fills the gaps between the rotors, ensuring airtightness.
+Oil separation: A mixture of compressed air and oil enters the oil separator. Here, the oil is separated from the air.
+Compressed air cooling: Compressed air passes through a cooler, where it is cooled to the required temperature. Some models may have a built-in dryer that removes moisture.
+Supply to the consumer: Purified and cooled compressed air is supplied to the pneumatic network.
+Oil circulation: The oil separated in the separator passes through the cooler and filter, after which it is injected back into the screw block. 
+    `,
+    // 🟢 asosiy rasm
+    image: "/images/blog/test17.jpg",
+    // 🆕 qo‘shimcha rasmlar
+    images: [
+      "/images/blog/test17.jpg",
+      "/images/blog/test17.1.jpg",
+    ],
+    author: {
+      name: "Samuyl Joshi",
+      image: "/images/blog/author-01.png",
+      designation: "Graphic Designer",
+    },
+    tags: ["creative"],
+    publishDate: "2025",
+  },
 ];
 
 export default blogData;
