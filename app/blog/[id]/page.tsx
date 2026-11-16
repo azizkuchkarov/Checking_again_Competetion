@@ -1,26 +1,31 @@
-"use client";
-
+import BlogGallery from "@/components/Blog/BlogGallery";
 import blogData from "@/components/Blog/blogData";
-import { notFound } from "next/navigation";
+import { Metadata } from "next";
 import Image from "next/image";
-import { Swiper, SwiperSlide } from "swiper/react";
-import { Navigation, Pagination } from "swiper/modules";
-import "swiper/css";
-import "swiper/css/navigation";
-import "swiper/css/pagination";
+import { notFound } from "next/navigation";
 
 interface BlogDetailProps {
   params: { id: string };
 }
 
-export default function BlogDetailPage({ params }: BlogDetailProps) {
-  const blogId = parseInt(params.id);
-  const blog = blogData.find((item) => item.id === blogId);
+const getBlog = (id: string) => blogData.find((item) => String(item.id) === id);
 
-  if (!blog) return notFound();
+export function generateStaticParams() {
+  return blogData.map((item) => ({ id: String(item.id) }));
+}
+
+export function generateMetadata({ params }: BlogDetailProps): Metadata {
+  const blog = getBlog(params.id);
+  return blog ? { title: blog.title } : {};
+}
+
+export default function BlogDetailPage({ params }: BlogDetailProps) {
+  const blog = getBlog(params.id);
+
+  if (!blog) notFound();
 
   return (
-    <section className="py-16 md:py-24">
+    <section className="pb-16 pt-[120px] md:pb-24 md:pt-[150px]">
       <div className="container max-w-4xl mx-auto">
         {/* 🟩 Sarlavha */}
         <h1 className="text-3xl md:text-4xl font-bold text-dark dark:text-white mb-8 leading-snug">
@@ -29,29 +34,7 @@ export default function BlogDetailPage({ params }: BlogDetailProps) {
 
         {/* 🟦 Galereya (Swipe qilinadigan) */}
         {blog.images && blog.images.length > 0 ? (
-          <div className="mb-10">
-            <Swiper
-              modules={[Navigation, Pagination]}
-              spaceBetween={20}
-              slidesPerView={1}
-              navigation
-              pagination={{ clickable: true }}
-              className="rounded-xl shadow-md"
-            >
-              {blog.images.map((img, index) => (
-                <SwiperSlide key={index}>
-                  <div className="relative w-full h-[400px] bg-white dark:bg-gray-900 flex items-center justify-center rounded-xl overflow-hidden">
-                    <Image
-                      src={img}
-                      alt={`${blog.title} - image ${index + 1}`}
-                      fill
-                      className="object-contain"
-                    />
-                  </div>
-                </SwiperSlide>
-              ))}
-            </Swiper>
-          </div>
+          <BlogGallery images={blog.images} title={blog.title} />
         ) : (
           blog.image && (
             <div className="relative w-full h-[400px] mb-10 rounded-xl overflow-hidden shadow-md bg-white dark:bg-gray-900 flex items-center justify-center">
@@ -59,6 +42,8 @@ export default function BlogDetailPage({ params }: BlogDetailProps) {
                 src={blog.image}
                 alt={blog.title}
                 fill
+                sizes="(max-width: 896px) 100vw, 896px"
+                priority
                 className="object-contain"
               />
             </div>
